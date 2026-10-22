@@ -1,0 +1,114 @@
+{
+  "origin": "User-provided files in input/SFX; originals unchanged",
+  "clips": [
+    {
+      "file": "buy.wav",
+      "source": "snd_sys_prop_buy.wav",
+      "archive": "PC _ Computer - Monopoly (2012) - Miscellaneous - Sound Effects.zip",
+      "duration": 1.063,
+      "peak": 0.68,
+      "rms": 0.093
+    },
+    {
+      "file": "credit.wav",
+      "source": "snd_sys_cash_gain_big.wav",
+      "archive": "PC _ Computer - Monopoly (2012) - Miscellaneous - Sound Effects.zip",
+      "duration": 1.617,
+      "peak": 0.68,
+      "rms": 0.056
+    },
+    {
+      "file": "debit.wav",
+      "source": "snd_sys_cash_loose_big.wav",
+      "archive": "PC _ Computer - Monopoly (2012) - Miscellaneous - Sound Effects.zip",
+      "duration": 1.195,
+      "peak": 0.68,
+      "rms": 0.106
+    },
+    {
+      "file": "build.wav",
+      "source": "snd_sys_prop_improve.wav",
+      "archive": "PC _ Computer - Monopoly (2012) - Miscellaneous - Sound Effects.zip",
+      "duration": 1.652,
+      "peak": 0.68,
+      "rms": 0.099
+    },
+    {
+      "file": "tarot.wav",
+      "source": "snd_sys_card_chest.wav",
+      "archive": "PC _ Computer - Monopoly (2012) - Miscellaneous - Sound Effects.zip",
+      "duration": 0.972,
+      "peak": 0.68,
+      "rms": 0.101
+    },
+    {
+      "file": "jail.wav",
+      "source": "snd_sys_jail.wav",
+      "archive": "PC _ Computer - Monopoly (2012) - Miscellaneous - Sound Effects.zip",
+      "duration": 1.613,
+      "peak": 0.68,
+      "rms": 0.081
+    },
+    {
+      "file": "win.wav",
+      "source": "snd_sys_wingame.wav",
+      "archive": "PC _ Computer - Monopoly (2012) - Miscellaneous - Sound Effects.zip",
+      "duration": 4.133,
+      "peak": 0.68,
+      "rms": 0.096
+    },
+    {
+      "file": "dice.wav",
+      "source": "snd_sys_dice_end_1.wav",
+      "archive": "PC _ Computer - Monopoly (2012) - Miscellaneous - Sound Effects.zip",
+      "duration": 0.407,
+      "peak": 0.672,
+      "rms": 0.105
+    },
+    {
+      "file": "select.wav",
+      "source": "snd_sys_select.wav",
+      "archive": "PC _ Computer - Monopoly (2012) - Miscellaneous - Sound Effects.zip",
+      "duration": 0.302,
+      "peak": 0.319,
+      "rms": 0.108
+    },
+    {
+      "file": "ufo.wav",
+      "source": "snd_token_iron_move.wav",
+      "archive": "PC _ Computer - Monopoly (2012) - Miscellaneous - Sound Effects.zip",
+      "duration": 0.32,
+      "peak": 0.428,
+      "rms": 0.105
+    },
+    {
+      "file": "rover.wav",
+      "source": "snd_token_taxi_move.wav",
+      "archive": "PC _ Computer - Monopoly (2012) - Miscellaneous - Sound Effects.zip",
+      "duration": 0.32,
+      "peak": 0.36,
+      "rms": 0.103
+    },
+    {
+      "file": "boots.wav",
+      "source": "snd_token_shoe_move.wav",
+      "archive": "PC _ Computer - Monopoly (2012) - Miscellaneous - Sound Effects.zip",
+      "duration": 0.25,
+      "peak": 0.277,
+      "rms": 0.027
+    },
+    {
+      "file": "rocket.wav",
+      "source": "Wind Move.mp3",
+      "archive": null,
+      "duration": 0.3,
+      "processing": "Browser decode, mono 22050 Hz, RMS/peak headroom and 12/45 ms fades"
+    }
+  ],
+  "theme": {
+    "file": "theme.mp3",
+    "source": "Amusement Park Theme Track 2 (Late game version) - Monopoly Plus music.mp3",
+    "origin": "input/SFX, user selected 2026-10-22",
+    "processing": "Original file; looped at base gain .22 times saved music mix; no re-encode"
+  }
+}
