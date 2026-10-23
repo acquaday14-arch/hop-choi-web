@@ -1,4 +1,4 @@
-import{r as n,j as r}from"./index-Cr5PnY1I.js";import{k as a,u as v,l as m,m as p}from"./events-e51d7528.esm-Ds0VlXCg.js";const h="varying vec2 vUv; void main(){vUv=uv;gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);}",x=`
+import{r as n,j as r}from"./index-DHsq41XW.js";import{k as a,u as v,l as m,m as p}from"./events-e51d7528.esm-BallRmqe.js";const h="varying vec2 vUv; void main(){vUv=uv;gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);}",x=`
  varying vec2 vUv; uniform vec3 tint; uniform float alpha; uniform float time; uniform float seed;
  float hash(vec2 p){return fract(sin(dot(p,vec2(127.1,311.7)))*43758.5453);}
  float noise(vec2 p){vec2 i=floor(p),f=fract(p);f=f*f*(3.-2.*f);return mix(mix(hash(i),hash(i+vec2(1,0)),f.x),mix(hash(i+vec2(0,1)),hash(i+vec2(1)),f.x),f.y);}
