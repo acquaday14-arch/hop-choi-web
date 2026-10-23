@@ -109,6 +109,6 @@
     "file": "theme.mp3",
     "source": "Amusement Park Theme Track 2 (Late game version) - Monopoly Plus music.mp3",
     "origin": "input/SFX, user selected 2026-10-22",
-    "processing": "Original file; looped at base gain .22 times saved music mix; no re-encode"
+    "processing": "Original file; looped at base gain .22 * 1.1 (.242) times saved music mix; no re-encode"
   }
 }
